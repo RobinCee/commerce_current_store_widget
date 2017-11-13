@@ -1,0 +1,3 @@
+'view current store block':
+  title: 'View current store block'
+  description: 'View a block that displays the current_store name.'
